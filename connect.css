@@ -1,0 +1,64 @@
+.connectSection {
+    padding: 50px 200px 50px 200px;
+    background-color: #405958;
+    display: flex;
+    justify-content: space-between;
+}
+
+.resourceContainer {
+    display: flex;
+    gap: 25px;
+}
+
+.resourceLinkContainer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.resourceLinkContainer a {
+    color: #9fcaca;;
+}
+
+.resource {
+    display: flex;
+    flex-direction: column;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-family: 'Poppins', sans-serif;
+    color: #9fcaca;
+}
+
+input {
+    border-color: none;
+    border-style: none;
+    border-radius: 30px;
+    padding: 10px 30px 10px 30px;
+    width: 400px;
+    background-color: #577171;
+}
+
+textarea {
+    border-color: none;
+    border-style: none;
+    border-radius: 30px;
+    padding: 10px 30px 10px 30px;
+    width: 400px;
+    height: 150px;
+    background-color: #577171;
+}
+
+.submit {
+    width: 100px;
+    color: #2d3e3e;
+    background-color: #d3f1f1;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}

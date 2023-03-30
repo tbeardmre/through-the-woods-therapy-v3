@@ -1,0 +1,37 @@
+.homeSection {
+    width: 100vw;
+    height: 100vh;
+    background-color: #577171;
+}
+
+.homeLogo {
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 200px 0 200px;
+}
+
+.homeLogo img {
+    width: 100px;
+}
+
+.homeContent {
+    height: 85%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 200px 0 200px;
+}
+
+.homeContent a {
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: none;
+    background-color: #d3f1f1;
+    color: #2d3e3e;
+    padding: 10px 30px 10px 30px;
+    border-radius: 30px;
+    border-color: none;
+}

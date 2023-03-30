@@ -1,0 +1,12 @@
+.aboutSection {
+    background-color: #405958;
+    padding: 50px 200px 50px 200px;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.aboutSection img {
+    width: 350px;
+    border-radius: 30px;
+}

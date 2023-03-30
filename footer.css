@@ -1,0 +1,10 @@
+.footerSection {
+    padding: 25px 200px 25px 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footerSection img {
+    width: 200px;
+}
